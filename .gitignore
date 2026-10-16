@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+sample_transactions.csv
+sample_identity.csv
+raw_demo_sample.zip
+*.csv
+!tests/fixtures/*.csv
